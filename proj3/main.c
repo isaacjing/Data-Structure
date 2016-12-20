@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Project 3 For ECE 362
+//  Project 3 For ECE 368
 //  Version 3.0
 //  Change log:
 //  * Priority queue added
