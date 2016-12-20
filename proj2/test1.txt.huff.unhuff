@@ -1,0 +1,7 @@
+Your task is to write two programs, one titled huff.c and the other titled unhuff.c.  
+The program huff.c should accept one argument, which will be the name of an input file. 
+The program should compress the input file using Huffman coding and write out the compressed output to a file that has the same name as the input file with a .huff appended to it. 
+For example, if example.txt is the name of an input file, the output file should be example.txt.huff. 
+The program unhuff.c should accept one argument, which will be the name of an input file. 
+The program should de-compress the input file and write out the de-compressed output to a file that has the same name as the input file with an .unhuff appended to it. 
+For example, if example.txt.huff is the name of an input file, the output file should be example.txt.huff.unhuff.
